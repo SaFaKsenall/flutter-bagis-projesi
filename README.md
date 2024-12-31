@@ -1,17 +1,26 @@
-# ff_chat
 
-A new Flutter project.
+## Kullanılan Teknolojiler
 
-## Getting Started
+- Flutter
+- Firebase (Firestore)
+- WebView Flutter
+- URL Launcher
+- Shrink SideMenu
 
-This project is a starting point for a Flutter application.
+## Katkıda Bulunma
 
-A few resources to get you started if this is your first Flutter project:
+1. Bu depoyu fork edin
+2. Yeni bir özellik dalı oluşturun (`git checkout -b yeni-ozellik`)
+3. Değişikliklerinizi commit edin (`git commit -am 'Yeni özellik eklendi'`)
+4. Dalınıza push yapın (`git push origin yeni-ozellik`)
+5. Bir Pull Request oluşturun
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## İletişim
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter-bagis-projesi
+Sorularınız ve önerileriniz için:
+- E-posta: jewelkaan01@gmail.com
+- Telefon: 
+
+## Lisans
+
+Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakın.
