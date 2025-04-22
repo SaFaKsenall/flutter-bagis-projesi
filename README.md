@@ -1,4 +1,4 @@
-
+https://github.com/safaksenal/testtt-ai/compare/main...SaFaKsenall:testtt-ai:patch-2
 ## Kullanılan Teknolojiler
 
 - Flutter
